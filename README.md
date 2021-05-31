@@ -1,18 +1,18 @@
 # Features
 ## New Songs!
-There will be four new song packs featured in Melodii!
+**There will be four new song packs featured in Melodii!**
 
 Some songs that will be featured are:
 
-Blue Spheres 
+- Blue Spheres 
 
-Portal -- Still Alive
+- Portal -- Still Alive
 
-Temporary Secretary
+- Temporary Secretary
 
-Owl City -- Good Time
+- Owl City -- Good Time
 
- And so much more...
+- And so much more...
 
 New Tutes!
 There will be new Tutes / Tetori's joining Melodii!
