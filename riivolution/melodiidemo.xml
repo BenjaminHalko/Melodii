@@ -1,0 +1,72 @@
+<wiidisc version="1">
+	<id game="R64"/>
+		<options>
+			<section name="Melodii DEMO">
+				<option name="Song Packs">
+					<choice name="Song Pack 1">
+						<patch id="melodiimomentDEMO"/>
+					</choice>
+					<choice name="Song Pack 2">
+						<patch id="melodymomentDEMO"/>
+					</choice>
+					<choice name="Song Pack 3">
+						<patch id="M3L0DIIM0M3N7DEMO"/>
+					</choice>
+				</option>
+				<option name="Custom Tutes">
+					<choice name="Enabled">
+						<patch id="this-is-actually-coolDEMO"/>
+					</choice>
+				</option>
+			</section>
+		</options>
+			<patch id="gaming-god">
+				<file disc="/Common/MusicStatic/common.carc" external="/MelodiiDEMO/MusicStatic/common/common.carc" offset=""/>
+				<folder disc="/Sound/MusicStatic/stream" external="/MelodiiDEMO/stream"/>
+			</patch>
+			<patch id="melodiimomentDEMO">
+				<file disc="/Sound/MusicStatic/rp_Music_sound.brsar" external="/MelodiiDEMO/checker/rp_Music_sound.brsar" offset=""/>
+				<file disc="/US/Message/message.carc" external="/MelodiiDEMO/checker/message.carc" offset=""/>
+				<file disc="/Common/RPSsnScene/common.carc" external="/MelodiiDEMO/checker/RPSsnScene.carc" offset=""/>
+				<file disc="main.dol" external="/MelodiiDEMO/checker/main.dol"/>
+    				<memory value="90010014800305FC2C00000041820008" offset="0x800018A8" ocarina="true" />
+    				<memory value="8000" offset="0x00001CDE" />
+    				<memory value="28B8" offset="0x00001CE2" />
+    				<memory value="8000" offset="0x00001F5A" />
+    				<memory value="28B8" offset="0x00001F5E" />
+    				<memory valuefile="codehandler.bin" offset="0x80001800" />
+    				<memory valuefile="/MelodiiDEMO/checker/songpack.gct" offset="0x800028B8" />
+				<savegame external="/MelodiiDEMO/checker/save" clone="false" />
+			</patch>
+			<patch id="melodymomentDEMO">
+				<file disc="/Sound/MusicStatic/rp_Music_sound.brsar" external="/MelodiiDEMO/kappa/rp_Music_sound.brsar" offset=""/>
+				<file disc="/US/Message/message.carc" external="/MelodiiDEMO/kappa/message.carc" offset=""/>
+				<file disc="/Common/RPSsnScene/common.carc" external="/MelodiiDEMO/kappa/RPSsnScene.carc" offset=""/>
+				<file disc="/LayoutCommon/MusicStrap/common.carc" external="/MelodiiDEMO/kappa/MusicStrap.carc" offset=""/>
+    				<memory value="90010014800305FC2C00000041820008" offset="0x800018A8" ocarina="true" />
+				<file disc="main.dol" external="/MelodiiDEMO/kappa/main.dol"/>
+    				<memory value="8000" offset="0x00001CDE" />
+    				<memory value="28B8" offset="0x00001CE2" />
+    				<memory value="8000" offset="0x00001F5A" />
+    				<memory value="28B8" offset="0x00001F5E" />
+    				<memory valuefile="codehandler.bin" offset="0x80001800" />
+    				<memory valuefile="/MelodiiDEMO/kappa/songpack.gct" offset="0x800028B8" />
+				<savegame external="/MelodiiDEMO/kappa/save" clone="false" />
+			</patch>
+			<patch id="M3L0DIIM0M3N7DEMO">
+				<file disc="/Sound/MusicStatic/rp_Music_sound.brsar" external="/MelodiiDEMO/halko/rp_Music_sound.brsar" offset=""/>
+				<file disc="/US/Message/message.carc" external="/MelodiiDEMO/halko/message.carc" offset=""/>
+				<file disc="main.dol" external="/MelodiiDEMO/halko/main.dol"/>
+    				<memory value="90010014800305FC2C00000041820008" offset="0x800018A8" ocarina="true" />
+    				<memory value="8000" offset="0x00001CDE" />
+    				<memory value="28B8" offset="0x00001CE2" />
+    				<memory value="8000" offset="0x00001F5A" />
+    				<memory value="28B8" offset="0x00001F5E" />
+    				<memory valuefile="codehandler.bin" offset="0x80001800" />
+    				<memory valuefile="/MelodiiDEMO/halko/songpack.gct" offset="0x800028B8" />
+				<savegame external="/MelodiiDEMO/halko/save" clone="false" />
+   			</patch>
+			<patch id="this-is-actually-coolDEMO">
+				<file disc="/Common/MusicKokeshi/common.carc" external="/MelodiiDEMO/CustomTutes/1/common.carc" offset=""/>
+			</patch>
+</wiidisc>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
