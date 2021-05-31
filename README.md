@@ -1,3 +1,8 @@
+#Melodii
+A Wii Music Mod for Riivolution
+
+Created by CheckerTheJester, RainbowKappa, Benjamin Halko, and Gavin Krolczyk
+
 # Features
 ## New Songs!
 There will be four new song packs featured in Melodii!
