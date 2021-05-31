@@ -1,6 +1,6 @@
 # Features
 ## New Songs!
-**There will be four new song packs featured in Melodii!**
+There will be four new song packs featured in Melodii!
 
 Some songs that will be featured are:
 
@@ -12,23 +12,23 @@ Some songs that will be featured are:
 
 - Owl City -- Good Time
 
-- And so much more...
+- **And so much more...**
 
-New Tutes!
+## New Tutes!
 There will be new Tutes / Tetori's joining Melodii!
 
 Featuring characters such as:
 
-Streetpass Mii Plaza Animals
+- Streetpass Mii Plaza Animals
 
-Party Phil from Wii Party
+- Party Phil from Wii Party
 
-Thomas and Guy-Manuel from Daft Punk
+- Thomas and Guy-Manuel from Daft Punk
 
-Sans from Undertale
+- Sans from Undertale
 
-New Styles!
+## New Styles!
 In each of the song packs, there will be new sets of custom styles!
 
-New Stages!
+## New Stages!
 In each of the song packs, there will be new sets of custom styles!
