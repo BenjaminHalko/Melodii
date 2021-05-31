@@ -1,6 +1,3 @@
-# Melodii
-A Wii Music Mod for Riivolution
-
 # Features
 ## New Songs!
 There will be four new song packs featured in Melodii!
