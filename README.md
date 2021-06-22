@@ -36,3 +36,10 @@ In each of the song packs, there will be new sets of custom styles!
 
 ## New Stages!
 In each of the song packs, there will be new sets of custom styles!
+
+# Change Log
+1.0 - Initial Demo Release
+
+1.1 - Fixed textless styles and misc other bugs
+
+1.2 - Fixed Rapper crash and tutorial from being incompletable. 100%ing the game is still untested, advised to use 100% save provided with mod! Replaced 2 songs in order to fix tutorial.
