@@ -1,6 +1,6 @@
 ![](https://user-images.githubusercontent.com/73490201/120222871-81936180-c1f5-11eb-8e63-1b626c17fce5.png)
 
-Created by CheckerTheJester, RainbowKappa, Benjamin Halko, and Gavin Krolczyk
+Created by CheckerTheJester, RainbowKappa, Benjamin Halko, Gavin Krolczyk, and Paniaal
 
 # Features
 ## New Songs!
